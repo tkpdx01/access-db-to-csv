@@ -1,4 +1,4 @@
-# ConvertMDB / MDB转换工具
+# access-db-to-csv / Access 数据库 CSV 导出工具
 
 > **Chinese | English**
 
@@ -6,9 +6,9 @@
 
 ## 项目简介 Project Overview
 
-**ConvertMDB** 是一个用 Python 编写的轻量级工具，能够从 Microsoft Access（*.mdb / *.accdb*）数据库提取表数据并导出为 CSV，同时提供后续处理 CSV 的辅助脚本。
+**access-db-to-csv** 是一个用 Python 编写的轻量级工具，能够从 Microsoft Access（*.mdb / *.accdb*）数据库提取表数据并导出为 CSV，同时提供后续处理 CSV 的辅助脚本。
 
-**ConvertMDB** is a lightweight Python utility that extracts table data from Microsoft Access (*.mdb / *.accdb*) files, converts them to CSV, and ships helper scripts for post‑processing.
+**access-db-to-csv** is a lightweight Python utility that extracts table data from Microsoft Access (*.mdb / *.accdb*) files, converts them to CSV, and ships helper scripts for post‑processing.
 
 ---
 
